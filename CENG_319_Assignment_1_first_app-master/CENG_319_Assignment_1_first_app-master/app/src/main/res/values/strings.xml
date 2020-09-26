@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">first app</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="OnCreate">onCreate() excuted</string>
+    <string name="OnStart">onStart() excuted</string>
+    <string name="OnPause">onPause() excuted</string>
+    <string name="OnStop">onStop() excuted</string>
+    <string name="OnDestroy">onDestroy() excuted</string>
+</resources>
